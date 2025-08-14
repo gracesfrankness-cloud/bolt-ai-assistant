@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Bolt - AI Assistant for Revolt Motors",
+  "description": ""
+}
